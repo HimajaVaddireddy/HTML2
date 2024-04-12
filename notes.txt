@@ -1,7 +1,7 @@
 Tag vs Element
 <h1>(tag open)
     componenets
-</h1>
+</h1>(closing tag)
 the whole open tag+components+close tag is called as elements.
 1.html have only two things head and body.
 2.shortcuts are known as emmets
