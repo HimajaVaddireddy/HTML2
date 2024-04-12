@@ -1,0 +1,14 @@
+Tag vs Element
+<h1>(tag open)
+    componenets
+</h1>
+the whole open tag+components+close tag is called as elements.
+1.html have only two things head and body.
+2.shortcuts are known as emmets
+ex:! or html:5--> to get alll html will come
+
+PUSHING CODE INTO GITHUB
+1.Intialize the git
+   --> git init
+2. git add .
+3.git commit -m "message".
