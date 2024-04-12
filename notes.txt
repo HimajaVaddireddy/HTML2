@@ -12,3 +12,10 @@ PUSHING CODE INTO GITHUB
    --> git init
 2. git add .
 3.git commit -m "message".
+
+
+index2 notes 
+1.a is for anchor Tag
+2.target="_blank-->new tab
+3.current local file-->../notes.txt
+4.image tag-->img (it is an self closing tags)
