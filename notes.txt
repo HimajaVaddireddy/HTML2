@@ -19,3 +19,14 @@ index2 notes
 2.target="_blank-->new tab
 3.current local file-->../notes.txt
 4.image tag-->img (it is an self closing tags)
+
+13-04-24
+    for normal spacing in paragraph use "&npsp"
+    for emojis "windows+."
+    block vs inline:
+        BLOCK
+        1.block elements usually won't allow any other element next to it
+        2.block element contain height and width
+        3.general block element is div,div:group the elements
+        INLINE 
+        1.example:span 
