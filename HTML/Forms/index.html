@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>Forms Demo</h1>
+    <form action="main.py"
+    method="get">
+        <div>
+            <label for="uname">Username:</label>
+        <input type="text"
+        name="uname" id="uname">
+        </div><br>
+        <div> <label for="em">Email:</label>
+            <input type="email"
+            name="email" id="em"></div>
+        <br>
+        <div>
+            <label for="DOB">DATE OF BIRTH</label>
+            <input type="DOB"
+            name="dob" id="DOB"><br><br>
+            <input type="file" name="file" id=""><br>
+            <input type="datetime" name="datetime" id="">
+        </div>
+        <br>
+        <!-- radio and checkbox,dropdowns-->
+        <p>Languages known:</p>
+        <input type="checkbox" name="lang" id="java"><label for="java">JAVA</label>
+        <input type="checkbox" name="lang" id="python"><label for="python">python</label>
+        <br><br>
+        <p>select gender:</p>
+        <input type="radio" name="m" id="fe">
+        <label for="fe">female</label>
+        <input type="radio" name="m" id="ma">
+        <label for="ma">male</label>
+        <br><br>
+        <p>select courses:</p>
+        <select name="courses" id="course">
+            <optgroup label="IT">
+                <option value="j">java</option>
+            <option value="p">python</option>
+            </optgroup>
+           <optgroup label="ECE"><option value="v">vlsi</option>
+            <option value="d">DSP</option></optgroup>
+           
+        </select>
+        
+
+
+
+
+
+
+        <br><br>
+        <button type="submit">
+            submit
+        </button>
+    </form>
+</body>
+</html>

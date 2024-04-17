@@ -30,3 +30,16 @@ index2 notes
         3.general block element is div,div:group the elements
         INLINE 
         1.example:span 
+17-04-24
+    Forms
+    1.placehholder: display before you enter something
+    2.action after form takes you to new tab and name is taken in url.
+    3.label and placeholder mostly not used at a time because both does the same work.
+    4.shortcut-->input:file or input:date etc
+    5.for in the label links with id in the input.
+    6.in checkbox,radiobutton name should be same
+    7.select can be used for single or multiple values
+    8.there aare two ways to submit files :
+     --->get
+     --->post (we use method after form)//used when there is sensitive content
+    9.
