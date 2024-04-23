@@ -42,4 +42,16 @@ index2 notes
     8.there aare two ways to submit files :
      --->get
      --->post (we use method after form)//used when there is sensitive content
-    9.
+    
+-----------------------------------------------
+    23-4-24
+-----------------------------------------------
+1.   text decoration:none---takes underline from anchor tag
+2.  display
+        -->display is used to make elemenys appear diferently
+        (i) display:block-->dont allow next elements side by side
+        (ii)display:inline-->side by side
+                          -->doesnt have height and width
+        (iii)display:inline-block-->inludes height and width.
+        (iv)display:table-->arranges in form of table
+        (v)display:none-->removes elements
